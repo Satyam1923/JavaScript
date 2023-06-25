@@ -13,3 +13,8 @@ console.log("a-- = ",a--)
 a = 8;
 a+=5;
 console.log(a)
+
+//logical operators
+let x = 5;
+let y = 6;
+console.log(x<y && x==5)
