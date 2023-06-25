@@ -4,3 +4,4 @@ let dic = {
 }
 console.log(dic["satyam"])
 console.log(dic["harry"])
+console.log(dic.satyam)
