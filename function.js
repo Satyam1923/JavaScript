@@ -3,8 +3,8 @@ let a = 1;
 let b= 2;
 let c = 3;
 
-function average(a,b,c){
-    return (a+b+c)/2;
+function onePlusAvg(a,b,c){
+    return 1+(a+b+c)/2;
 }
 
-console.log("Average of a and b is ",average(a,b,c))
+console.log("one plus average of a,b,c "+ onePlusAvg(a,b,c))
