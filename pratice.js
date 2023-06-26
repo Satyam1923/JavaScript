@@ -13,3 +13,4 @@ else {
     console.log("It is an odd number "+a);
 }
 console.log(b["c"]+" "+b["d"]);
+console.log("a new commit is added")
